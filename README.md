@@ -1,4 +1,4 @@
-# Invisibility Cloak Using MATLAB<sup>:registered:</sup> and Simulink<sup>:registered:</sup> 
+# Invisibility Cloak Using MATLAB &reg; and Simulink &reg;
 
 This submission contains the implementation of an Invisibility Cloak using image thresholding and segmentation.
 The implementation uses [Interactive Apps from the Image Processing Toolbox &trade;](https://www.mathworks.com/help/images/referencelist.html?type=app&s_tid=CRUX_topnav)
