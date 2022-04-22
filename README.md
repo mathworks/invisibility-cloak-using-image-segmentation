@@ -57,8 +57,8 @@ The model showcases the workflow of using the [Image Thresholder App](https://ww
 - MATLAB
 - Simulink
 - Image Processing Toolbox
-- Image Acquisition Toolbox<sup>TM</sup> 
-- Computer Vision Toolbox<sup>TM</sup>
+- Image Acquisition Toolbox &trade;
+- Computer Vision Toolbox &trade;
 - [MATLAB Support Package for USB Webcams](https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams) (Add-On)
 - [Image Acquisition Toolbox Support Package for OS Generic Video Interface](https://in.mathworks.com/matlabcentral/fileexchange/45183-image-acquisition-toolbox-support-package-for-os-generic-video-interface) (Add-On)
 
